@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e52652f-3e65-410e-bf17-2ed2baca1e62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celcius_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/close_or_not_close.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_cm_to_inch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap_or_not_leap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_divisors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rock-paper-scissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_ahead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/end_in-4_sqaures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keep_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +36,15 @@
     "Python.celcius_calc.executor": "Run",
     "Python.close_or_not_close.executor": "Run",
     "Python.convert_cm_to_inch.executor": "Run",
+    "Python.end_in-4_sqaures.executor": "Run",
+    "Python.keep_count.executor": "Run",
     "Python.leap_or_not_leap.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.prime_num.executor": "Run",
     "Python.print_divisors.executor": "Run",
     "Python.random_multiplication.executor": "Run",
     "Python.rock-paper-scissors.executor": "Run",
+    "Python.sum.executor": "Run",
     "Python.time_ahead.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +56,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.rock-paper-scissors">
+  <component name="RunManager" selected="Python.prime_num">
     <configuration name="convert_cm_to_inch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -84,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leap_or_not_leap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="end_in-4_sqaures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leap_or_not_leap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/end_in-4_sqaures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_divisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="keep_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keep_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_multiplication.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_ahead" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_ahead.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prime_num" />
+        <item itemvalue="Python.sum" />
+        <item itemvalue="Python.end_in-4_sqaures" />
+        <item itemvalue="Python.keep_count" />
         <item itemvalue="Python.rock-paper-scissors" />
-        <item itemvalue="Python.time_ahead" />
-        <item itemvalue="Python.random_multiplication" />
-        <item itemvalue="Python.print_divisors" />
-        <item itemvalue="Python.leap_or_not_leap" />
       </list>
     </recent_temporary>
   </component>
