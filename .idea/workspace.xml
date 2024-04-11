@@ -4,18 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e52652f-3e65-410e-bf17-2ed2baca1e62" name="Changes" comment="" />
+    <list default="true" id="4e52652f-3e65-410e-bf17-2ed2baca1e62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module_5/1000_random_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/alternate_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/compute_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/count_non_perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/count_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/find_perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/max_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/max_min_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/squarefree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/sum_divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/intro_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/random_multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/random_multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/sum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dujUawDOGTAogZ5pNzuiABc6Zf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -27,22 +50,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1000_random_numbers.executor": "Run",
     "Python.celcius_calc.executor": "Run",
     "Python.close_or_not_close.executor": "Run",
+    "Python.convert_cm_to_inch (1).executor": "Run",
     "Python.convert_cm_to_inch.executor": "Run",
+    "Python.count_words.executor": "Run",
     "Python.end_in-4_sqaures.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.guess_points.executor": "Run",
+    "Python.intro_str.executor": "Run",
     "Python.keep_count.executor": "Run",
     "Python.leap_or_not_leap.executor": "Run",
+    "Python.loop_str.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.max_min.executor": "Run",
     "Python.prime_num.executor": "Run",
     "Python.print_divisors.executor": "Run",
     "Python.random_multiplication.executor": "Run",
     "Python.rock-paper-scissors.executor": "Run",
     "Python.sum.executor": "Run",
     "Python.time_ahead.executor": "Run",
+    "Python.vowel_build.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -50,7 +83,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.prime_num">
+  <component name="RunManager" selected="Python.count_words">
     <configuration name="convert_cm_to_inch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -73,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="end_in-4_sqaures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/end_in-4_sqaures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/count_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keep_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="intro_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keep_count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/intro_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loop_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/loop_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rock-paper-scissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rock-paper-scissors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_4/random_multiplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vowel_build" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_6/vowel_build.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prime_num" />
-        <item itemvalue="Python.sum" />
-        <item itemvalue="Python.end_in-4_sqaures" />
-        <item itemvalue="Python.keep_count" />
-        <item itemvalue="Python.rock-paper-scissors" />
+        <item itemvalue="Python.count_words" />
+        <item itemvalue="Python.intro_str" />
+        <item itemvalue="Python.loop_str" />
+        <item itemvalue="Python.vowel_build" />
+        <item itemvalue="Python.random_multiplication" />
       </list>
     </recent_temporary>
   </component>

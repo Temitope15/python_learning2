@@ -12,6 +12,5 @@ print("the sum from  1 to 100 is", s)
 x = 5
 y = 4
 z = 6
-w = 7
-w,x,y,z = z,y,x,w
-print(w,x,y,z)
+x,y,z = y,z,x
+print(x,y,z)
